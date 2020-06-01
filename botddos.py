@@ -38,4 +38,4 @@ async def on_message(message):
 
 		await message.channel.send("ddos terminado!")
 
-client.run('NzA4MTE3ODk2NDc1MzEyMTYw.XrSsrw.x4sElCZeevWg2VmOdp_8OLywoNw')
+client.run('NzA4MTE3ODk2NDc1MzEyMTYw.XtRQuA.1SqQh5NNBCYY59WHyEpNImDwnWg')
